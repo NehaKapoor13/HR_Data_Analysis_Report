@@ -36,7 +36,7 @@ EDA involved exploring the hr data answering key questions, such as:
 - what's the distribution of employee across different states?
 - how are job titles distributed in the company?
 - how have employee hire counts varied over time?
-    - calculates hires
+    - calculates hires.
     - calculates terminations
     - (hires-treminations)/hires precent hire change
 
